@@ -1,6 +1,0 @@
-com\udg\siiau\controllers\StudentController.class
-com\udg\siiau\SiiauApplication.class
-com\udg\siiau\models\StudentModel.class
-com\udg\siiau\services\StudentService.class
-com\udg\siiau\repositories\StudentRepository.class
-com\udg\siiau\ServletInitializer.class
